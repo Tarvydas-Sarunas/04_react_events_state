@@ -1,0 +1,11 @@
+.counter {
+  border: 1px solid gray;
+  padding: 30px 50px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px lightblue;
+}
+.counter .value {
+  font-size: 45px;
+}
